@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crash-to-main-menu",
+  "name": "Crash To Main Menu",
+  "description": "Makes Minecraft crash to the Main Menu on world-related crashes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WildBamaBoy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
